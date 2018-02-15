@@ -7,4 +7,4 @@ cd ..
 mkdir development
 cd      development
 wget -O- get.pharo.org/$SPIN_IDE_PHARO_VERSION+vm | bash
-./pharo-ui Pharo.image 
+./pharo-ui Pharo.image ./spin_vm_builder_setup.st 

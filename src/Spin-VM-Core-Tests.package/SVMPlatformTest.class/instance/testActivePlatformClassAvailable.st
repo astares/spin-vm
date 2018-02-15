@@ -1,0 +1,4 @@
+tests
+testActivePlatformClassAvailable
+
+	self assert: SVMPlatform activePlatformClass notNil

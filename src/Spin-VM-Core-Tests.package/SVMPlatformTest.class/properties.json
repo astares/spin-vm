@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 2/15/2018 23:12",
+	"super" : "TestCase",
+	"category" : "Spin-VM-Core-Tests-Utilities",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SVMPlatformTest",
+	"type" : "normal"
+}

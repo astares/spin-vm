@@ -1,0 +1,1 @@
+Superclass for linux based platforms

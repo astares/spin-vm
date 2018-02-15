@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 2/15/2018 22:34",
+	"super" : "SVMPlatform",
+	"category" : "Spin-VM-Core-Utilities",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SVMWindowsPlatform",
+	"type" : "normal"
+}

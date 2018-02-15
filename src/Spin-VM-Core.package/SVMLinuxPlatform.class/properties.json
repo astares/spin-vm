@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 2/15/2018 22:35",
+	"super" : "SVMUnixPlatform",
+	"category" : "Spin-VM-Core-Utilities",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SVMLinuxPlatform",
+	"type" : "normal"
+}

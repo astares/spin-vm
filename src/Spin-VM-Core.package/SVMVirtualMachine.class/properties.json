@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "TorstenBergmann 2/16/2018 00:50",
+	"super" : "SVMVObject",
+	"category" : "Spin-VM-Core-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"objectMemory"
+	],
+	"name" : "SVMVirtualMachine",
+	"type" : "normal"
+}

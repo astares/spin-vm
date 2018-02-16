@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "TorstenBergmann 2/16/2018 01:40",
+	"super" : "Object",
+	"category" : "Spin-Transpiler-Base-Writer",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stream"
+	],
+	"name" : "SVMWriterForLanguage",
+	"type" : "normal"
+}

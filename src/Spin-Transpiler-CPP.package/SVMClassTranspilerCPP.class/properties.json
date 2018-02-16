@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 2/16/2018 01:13",
+	"super" : "SVMClassTranspiler",
+	"category" : "Spin-Transpiler-CPP-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SVMClassTranspilerCPP",
+	"type" : "normal"
+}

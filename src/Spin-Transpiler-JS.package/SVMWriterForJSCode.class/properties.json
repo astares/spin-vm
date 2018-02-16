@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 2/16/2018 01:42",
+	"super" : "SVMWriterForLanguage",
+	"category" : "Spin-Transpiler-JS-Writer",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SVMWriterForJSCode",
+	"type" : "normal"
+}

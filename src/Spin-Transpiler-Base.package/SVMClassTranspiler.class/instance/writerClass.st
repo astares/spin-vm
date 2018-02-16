@@ -1,0 +1,3 @@
+defaults
+writerClass
+	^self subclassResponsibility 

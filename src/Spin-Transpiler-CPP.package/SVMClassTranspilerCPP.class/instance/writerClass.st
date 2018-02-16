@@ -1,0 +1,5 @@
+defaults
+writerClass
+
+	^SVMWriterForCPPCode
+

@@ -1,0 +1,3 @@
+writing
+newLine
+	stream cr.

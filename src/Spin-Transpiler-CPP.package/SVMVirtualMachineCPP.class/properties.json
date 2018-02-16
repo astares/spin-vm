@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SVMVObjectCPP",
+	"category" : "Spin-Transpiler-CPP-Additions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SVMVirtualMachineCPP",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+Common superclass for writers on language syntax

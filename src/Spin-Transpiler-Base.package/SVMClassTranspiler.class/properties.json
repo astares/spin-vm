@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "TorstenBergmann 2/16/2018 01:39",
+	"super" : "Object",
+	"category" : "Spin-Transpiler-Base-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"writer"
+	],
+	"name" : "SVMClassTranspiler",
+	"type" : "normal"
+}
